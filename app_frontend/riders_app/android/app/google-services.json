@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283222382339",
+    "project_id": "developerrank-7b957",
+    "storage_bucket": "developerrank-7b957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283222382339:android:db355cd4b43fc486343b36",
+        "android_client_info": {
+          "package_name": "com.shruti.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283222382339-vk9fdmao2onkb5f6dnuan2kvrj33vhhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWDVZl7P6DLyD1l3Egs2dd1Qj2MoBXok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283222382339-vk9fdmao2onkb5f6dnuan2kvrj33vhhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

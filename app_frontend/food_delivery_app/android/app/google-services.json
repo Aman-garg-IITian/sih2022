@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973811728178",
+    "project_id": "foodie-s-corner-ae18d",
+    "storage_bucket": "foodie-s-corner-ae18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973811728178:android:7b9b618e9c64ef64ca212b",
+        "android_client_info": {
+          "package_name": "com.shruti.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973811728178-o7a7auq8b0m2di7ecvg8qpet4eppcp4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXTWsBXHcEZ47HtRe9gTl7nRhfYBvuYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973811728178-o7a7auq8b0m2di7ecvg8qpet4eppcp4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
